@@ -1,0 +1,1 @@
+let d=3000,h=0,a=0,m=5;function s(){window.scrollTo(0,document.body.scrollHeight);}function c(){document.querySelectorAll('button[data-testid="unlike"]').forEach(b=>b.click());}function k(){c();s();if(window.scrollY>=h&&a<m){h=document.body.scrollHeight;a++;}else if(a>=m){console.log("done");}}setInterval(k,d);
