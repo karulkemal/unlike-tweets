@@ -1,6 +1,6 @@
 # unlike-tweets
 
-1. Go to your **Likes** page on X (https://www.x.com/{username}/likes).
+1. Go to your **Likes** page on X (e.g. `https://www.x.com/username/likes`).
 2. Open **Developer Tools** (`F12` or `Ctrl+Shift+I`).
 3. Paste the code (if you can't paste, type `allow pasting`).
 ```javascript
