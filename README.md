@@ -9,4 +9,4 @@ let d=3000,h=0,a=0,m=5;function s(){window.scrollTo(0,document.body.scrollHeight
 4. Done.
 
 ---
-Made with Bismillah❤️
+Made with [Bismillah](https://quickabdest.com)❤️
